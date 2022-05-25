@@ -16,3 +16,4 @@ maximo_minimo_lista = [7, 93, 2, 8, 425, 1099901, 9, 1101000193, 393934, 3]
 
 print(mas_grande(maximo_minimo_lista)) # Expected ==> Máximo: 1101000193
 print(mas_chico(maximo_minimo_lista)) # Expected ==> Mínimo: 2
+#test
