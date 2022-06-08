@@ -13,19 +13,3 @@ for word in words_list:
         longest_word = word
     
 print(f'The longest word is {longest_word} with {len(longest_word)} letters')
-
-
-
-
-#lorem_split = lorem.split()
-#max(lorem_split)
-
-#lorem_list = lorem.split
-
-#print(len(lorem_list))
-
-#longest = len(lorem)
-#print(longest)
-
-#print(longest)
-

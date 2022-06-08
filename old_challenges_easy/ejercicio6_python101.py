@@ -14,6 +14,5 @@ for number1 in listado_suma_42:
     for number2 in listado_suma_42:
         if number1 + number2  == 42:
             pair_number_sums42.append(number1)
-
-        
+      
 print(pair_number_sums42)
